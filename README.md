@@ -1,16 +1,23 @@
-## Hi there 👋
+🌱 My Front-End Web Development Journey
+Hi! I'm Abdullah Al Junayed, a newbie front-end web developer, just starting to learn how to build websites. This repository is a collection of the small projects I’ve been working on as I practice HTML, CSS, and JavaScript.
 
+🛠️ What I’m Learning
+HTML – Building the structure of web pages
+CSS – Styling and layouts
+JavaScript – Adding basic interactivity (still learning!)
 
-**abdullah-al-junayed/abdullah-al-junayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 My Projects (Work in Progress)
+Since I’m just starting out, my projects might be simple, but I’m excited to improve over time. Here are a few things I’m working on:
 
-Here are some ideas to get you started:
+Basic Web Page
+A simple page with headings, paragraphs, and links.
+Styled Page with CSS
+Trying out different colors, fonts, and basic layouts using CSS.
+JavaScript Button
+A button that shows an alert when clicked (my first JavaScript project!).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+🎯 Goals
+Learn how to make my websites responsive so they look good on all devices.
+Improve my JavaScript skills to add more functionality.
+Start using Git and GitHub for version control and collaboration.
+Thanks for checking out my repository! Any feedback or tips would be much appreciated as I continue learning.
