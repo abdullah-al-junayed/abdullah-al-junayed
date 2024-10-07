@@ -39,7 +39,7 @@ Since I’m just starting out, my projects might be simple, but I’m excited to
 <h1>🤝 Contributing</h1>
 Since I'm still learning, feel free to share any tips or suggestions by creating an issue or submitting a pull request. Let's grow together!
 
-<h2>🪄Github Status</h2>
+<h1>🪄GITHUB STATUS</h1>
 <p align="center">
   <a href="https://github.com/abdullah-al-junayed">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullah-al-junayed&theme=radical" alt="Abdullah Al Junayed's GitHub Contribution"/>
@@ -53,7 +53,7 @@ Since I'm still learning, feel free to share any tips or suggestions by creating
   <a href="https://github.com/abdullah-al-junayed">
     <img alt="Abdullah's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abdullah-al-junayed&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
   </a>
-<h1>🔗Connect with me</h1>
+<h1>🔗CONNECT WITH ME</h1>
 
 <div align="center">
 <br>
