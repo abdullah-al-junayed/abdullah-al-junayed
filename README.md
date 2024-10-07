@@ -3,7 +3,7 @@ Hi! I'm Abdullah Al Junayed, a newbie front-end web developer, just starting to 
 
 <div align="center"><br>
 
-![Profile views](https://komarev.com/ghpvc/?username=abdullah-al-junayed&color=red)
+<h3>![Profile views](https://komarev.com/ghpvc/?username=abdullah-al-junayed&color=red)</h3>
 
 <h3>Skills: HTML / CSS / JavaScript (still learning!)</h3>
 
