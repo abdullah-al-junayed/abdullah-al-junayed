@@ -23,4 +23,7 @@ Since I’m just starting out, my projects might be simple, but I’m excited to
 <ul><li>Improve my JavaScript skills to add more functionality.</li></ul>
 <ul><li>Start using Git and GitHub for version control and collaboration.</li></ul>
 
+<h1>🤝 Contributing</h1>
+Since I'm still learning, feel free to share any tips or suggestions by creating an issue or submitting a pull request. Let's grow together!
+
 <h2>Thanks for checking out my repository! Any feedback or tips would be much appreciated as I continue learning.</h2>
