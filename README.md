@@ -57,17 +57,18 @@ Since I'm still learning, feel free to share any tips or suggestions by creating
 
 <div>
 
-![Abdullah's Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullah-al-junayed&custom_title=Abdullah's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-  
-</div>
-![Abdullah's Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullah-al-junayed&custom_title=Abdullah's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-  
   
 <a href="https://www.facebook.com/junayed.06/" target="_blank">
   <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
+
+
+
+  
+</div>
+
+
+  
 
 
 <h2>Thanks for checking out my repository! Any feedback or tips would be much appreciated as I continue learning.</h2>
