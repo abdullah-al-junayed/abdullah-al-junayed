@@ -1,4 +1,4 @@
-🌱 My Front-End Web Development Journey
+<p style="font-size:26px;">🌱</p> My Front-End Web Development Journey
 Hi! I'm Abdullah Al Junayed, a newbie front-end web developer, just starting to learn how to build websites. This repository is a collection of the small projects I’ve been working on as I practice HTML, CSS, and JavaScript.
 
 🛠️ What I’m Learning
