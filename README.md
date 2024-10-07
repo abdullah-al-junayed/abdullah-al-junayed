@@ -1,6 +1,15 @@
 <h1>🌱 My Front-End Web Development Journey</h1>
 Hi! I'm Abdullah Al Junayed, a newbie front-end web developer, just starting to learn how to build websites. This repository is a collection of the small projects I’ve been working on as I practice HTML, CSS, and JavaScript.
 
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=abdullah-al-junayed&color=red)
+
+Skills: HTML / CSS / JavaScript (still learning!)
+
+</div>
+
+
 <h1>🛠️ What I’m Learning</h1>
 <li>HTML – Building the structure of web pages</li>
 <li>CSS – Styling and layouts</li>
