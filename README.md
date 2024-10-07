@@ -71,6 +71,9 @@ Since I'm still learning, feel free to share any tips or suggestions by creating
   <img src="https://img.shields.io/badge/telegram-%2300ACD7.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
 
+<a href="https://discord.com/channels/@me" target="_blank">
+  <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="discord" style="margin-bottom: 5px; margin-right: 2px;" />
+</a>
 
   
 </div>
