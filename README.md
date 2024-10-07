@@ -1,5 +1,5 @@
 <h1>🌱 My Front-End Web Development Journey</h1>
-Hi! I'm Abdullah Al Junayed, a newbie front-end web developer, just starting to learn how to build websites. This repository is a collection of the small projects I’ve been working on as I practice HTML, CSS, and JavaScript.
+Hi! I'm Abdullah Al Junayed, a newbie front-end web developer, just starting to learn how to build websites. This repository is a collection of the small projects I’ve been working on as I practice HTML, CSS, and JavaScript.<br>
 
 <div align="center">
 
