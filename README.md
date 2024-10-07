@@ -53,7 +53,14 @@ Since I'm still learning, feel free to share any tips or suggestions by creating
   <a href="https://github.com/abdullah-al-junayed">
     <img alt="Abdullah's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=abdullah-al-junayed&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
   </a>
+<h1>🔗Connect with me</h1>
+
+<div>
+
+![Abdullah's Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullah-al-junayed&custom_title=Abdullah's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
   
+</div>
 ![Abdullah's Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullah-al-junayed&custom_title=Abdullah's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
   
