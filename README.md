@@ -39,7 +39,7 @@ Since I’m just starting out, my projects might be simple, but I’m excited to
 <h1>🤝 Contributing</h1>
 Since I'm still learning, feel free to share any tips or suggestions by creating an issue or submitting a pull request. Let's grow together!
 
-<h2>Github Stats</h2>
+<h2>🪄Github Stats</h2>
 <p align="center">
   <a href="https://github.com/abdullah-al-junayed">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullah-al-junayed&theme=radical" alt="Abdullah Al Junayed's GitHub Contribution"/>
