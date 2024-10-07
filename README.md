@@ -5,7 +5,7 @@ Hi! I'm Abdullah Al Junayed, a newbie front-end web developer, just starting to 
 
 ![Profile views](https://komarev.com/ghpvc/?username=abdullah-al-junayed&color=red)
 
-Skills: HTML / CSS / JavaScript (still learning!)
+<h3>Skills: HTML / CSS / JavaScript (still learning!)</h3>
 
 </div>
 
