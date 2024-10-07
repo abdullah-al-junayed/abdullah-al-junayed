@@ -9,16 +9,17 @@ Hi! I'm Abdullah Al Junayed, a newbie front-end web developer, just starting to 
 <h1>💻 My Projects (Work in Progress)</h1>
 Since I’m just starting out, my projects might be simple, but I’m excited to improve over time. Here are a few things I’m working on:
 
-<ol>Basic Web Page</ol>
-<ul>A simple page with headings, paragraphs, and links.</ul>
+1. Basic Web Page
+<ul><li>A simple page with headings, paragraphs, and links.</li></ul>
 
-2.Styled Page with CSS
-<ul>Trying out different colors, fonts, and basic layouts using CSS.</ul>
-3.JavaScript Button
-<ul>>A button that shows an alert when clicked (my first JavaScript project!).</ul
+2. Styled Page with CSS
+<ul><li>Trying out different colors, fonts, and basic layouts using CSS.</li></ul>
+3. JavaScript Button
+<ul><li>A button that shows an alert when clicked (my first JavaScript project!).</li></ul
+                                                                                        
 <h1>🎯 Goals</h1>
-<ul>Learn how to make my websites responsive so they look good on all devices.</ul>
-<ul>Improve my JavaScript skills to add more functionality.</ul>
-<ul>Start using Git and GitHub for version control and collaboration.</ul>
+<ul><li>Learn how to make my websites responsive so they look good on all devices.</li></ul>
+<ul><li>Improve my JavaScript skills to add more functionality.</li></ul>
+<ul><li>Start using Git and GitHub for version control and collaboration.</li></ul>
 
 <h2>Thanks for checking out my repository! Any feedback or tips would be much appreciated as I continue learning.</h2>
