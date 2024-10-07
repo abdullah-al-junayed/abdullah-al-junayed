@@ -17,7 +17,8 @@ Since I’m just starting out, my projects might be simple, but I’m excited to
 3. JavaScript Button
 <ul><li>A button that shows an alert when clicked (my first JavaScript project!).</li></ul
                                                                                         
-<h2>🎯 Goals</h2>
+<h1>🎯 Goals</h1>
+
 <ul><li>Learn how to make my websites responsive so they look good on all devices.</li></ul>
 <ul><li>Improve my JavaScript skills to add more functionality.</li></ul>
 <ul><li>Start using Git and GitHub for version control and collaboration.</li></ul>
