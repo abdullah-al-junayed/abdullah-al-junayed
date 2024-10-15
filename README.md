@@ -28,7 +28,7 @@ Since I’m just starting out, my projects might be simple, but I’m excited to
 2. Styled Page with CSS
 <ul><li>Trying out different colors, fonts, and basic layouts using CSS.</li></ul>
 3. JavaScript Button
-<ul><li>A button that shows an alert when clicked (my first JavaScript project!).</li></ul>
+<ul><li>Still learning and i don't have any working experience in this site.</li></ul>
                                                                                         
 <h1>🎯 Goals</h1>
 
