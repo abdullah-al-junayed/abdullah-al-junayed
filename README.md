@@ -2,14 +2,14 @@
 Hi! I'm Abdullah Al Junayed, a newbie front-end web developer, just starting to learn how to build websites. This repository is a collection of the small projects I’ve been working on as I practice HTML, CSS, and JavaScript.<br>
 
 <div align="center"><br>
-<h3>Skills: HTML / CSS / JavaScript (still learning!)</h3>
+
 <span width="200px">
   
   ![Profile views](https://komarev.com/ghpvc/?username=abdullah-al-junayed&color=red)
 
 <span>
 
-
+<h3>Skills: HTML / CSS / JavaScript (still learning!)</h3>
 
 </div>
 
