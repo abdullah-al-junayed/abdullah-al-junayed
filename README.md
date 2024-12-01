@@ -64,7 +64,7 @@ Since I'm still learning, feel free to share any tips or suggestions by creating
 </a>
 
 
-<a href="https://www.instagram.com/_.extreme._.pain._/" target="_blank">
+<a href="https://www.instagram.com/_smells__like__teen__spirit_/" target="_blank">
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
 
