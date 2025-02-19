@@ -9,7 +9,7 @@ Hi! I'm Abdullah Al Junayed, a newbie front-end web developer, just starting to 
 
 <span>
 
-<h3>Skills: HTML / CSS / JavaScript (still learning!)</h3>
+<h3>Skills: HTML / CSS / Tailwind CSS / Bootstraps / JavaScript (still learning!)</h3>
 
 </div>
 
